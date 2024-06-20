@@ -1,0 +1,3 @@
+Create a Python script that organizes files in a specific folder into subfolders based on their file type (e.g., .jpg, .txt, .pdf, etc.).
+
+Save all your documents in the folder "documents"
